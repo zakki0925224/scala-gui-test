@@ -1,3 +1,3 @@
-# scala-test
+# scala-gui-test
 
-My scala template. Install scala by Coursier.
+Swing + FlatLaf
